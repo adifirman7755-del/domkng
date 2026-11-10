@@ -26,10 +26,5 @@ int main() {
     // pengisian sekaligus modulus
     a %= 10; // ini sama seperti a = a % 10
     cout << "Hasil a %= 10 adalah " << a << endl;
-    
-    // pengisian sekaligus modulus
-    a %= 10; // ini sama seperti a = a % 10
-    cout << "Hasil a %= 10 adalah " << a << endl;
-
     return 0;
 }
