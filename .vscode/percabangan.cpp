@@ -24,9 +24,6 @@ int main(){
             cout << "ADAKAH 100!" << endl;
             cout << "ADAKAH 100!" << endl;
             cout << "ADAKAH 100!" << endl;
-            cout << "ADAKAH 100!" << endl;
-            cout << "ADAKAH 100!" << endl;
-            cout << "ADAKAH 100!" << endl;
             break; // Keluar dari perulangan jika password benar
         } else {
             cout << "WOI PASSWORD KAU SALAH!" << endl;
